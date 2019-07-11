@@ -1998,8 +1998,9 @@ class DaeExporter:
         return self
 
     def __exit__(self, *exc):
-        for mesh in self.temp_meshes:
-            bpy.data.meshes.remove(mesh)
+        pass
+        #for mesh in self.temp_meshes:
+        #    bpy.data.meshes.remove(mesh)
 
 
 def save(operator, context, filepath="", use_selection=False, **kwargs):
