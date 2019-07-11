@@ -1,4 +1,4 @@
-# Godot Engine's "Better" Collada exporter for Blender
+# Godot Engine's "Better" Collada exporter for Blender 2.80
 
 Enhanced Collada exporter for [Blender](https://www.blender.org), making the
 format viable for importing meshes into game engines such as
